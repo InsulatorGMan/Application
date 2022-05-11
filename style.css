@@ -89,9 +89,3 @@ button:hover {
   font-size:20px;
   font-weight:900;
 }
-#script-box-3 {
-  transform:translateY(-750px) translateX(720px);
-  width:200px;
-  height:400px;
-  box-shadow:5px 5px 12px 8px #A379FF;
-}
